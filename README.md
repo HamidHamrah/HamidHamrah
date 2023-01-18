@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working studing Data science at Oslomet 🌱 I’m currently learning data networking and cloud computing <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working studing Data science at Oslomet <br>🌱 I’m currently learning data networking and cloud computing <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
