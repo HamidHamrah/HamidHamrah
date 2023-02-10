@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamid Hamrah</h1>
-<h3 align="center">A passionate student studing operativsystem and cloud computing at the moment. :)</h3>
+<h3 align="center">A passionate student studing operating system and cloud computing at the moment. :)</h3>
 
 - 🔭 I’m currently working on **Private Project**
 
