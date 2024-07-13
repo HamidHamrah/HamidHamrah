@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Hamrah</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on my bachelor thesis **Consulting portal**
+- 🔭 I’m a software engineer, Graduated in June 2024. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamidHamrah?tab=repositories](https://github.com/HamidHamrah?tab=repositories)
 
